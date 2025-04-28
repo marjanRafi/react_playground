@@ -61,7 +61,7 @@ function App() {
             CSS to showcase my work and skills.
           </p>
           <a
-            href="https://github.com/yourusername/portfolio"
+            href="https://github.com/marjanRafi"
             target="_blank"
             rel="noopener noreferrer"
           >
